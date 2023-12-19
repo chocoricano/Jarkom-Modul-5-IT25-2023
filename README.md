@@ -1,11 +1,5 @@
 # Jarkom-Modul-5-IT25-2023
 
-
-## Contents
-
-- [Topology](#topology)
-
-
 ## Subnetting
 
 ![Subnetting](https://i.ibb.co/XScHSRh/subnetting.jpg)
